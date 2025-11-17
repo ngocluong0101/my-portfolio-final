@@ -2,7 +2,7 @@
   {
     "name": "Library Management System",
     "desc": "Library management application built using Python and SQL Server. Provides functionalities to manage books, members, and borrowing transactions efficiently.",
-    "image": "QLThuVien",
+    "image": "quanlythuvien",
     "category": "system",
     "links": {
       
@@ -12,7 +12,7 @@
   {
     "name": "Cyber Management System",
     "desc": "Net café management system built using C#, WinForms, and SQL Server. Supports managing computers, accounts, time tracking, and services for smooth operation.",
-    "image": "QLQuanNet",
+    "image": "quannet",
     "category": "winform",
     "links": {
       "code": "https://github.com/ngocluong0101/WinForm_QuanLyQuanNet"
@@ -21,7 +21,7 @@
   {
     "name": "My portfolio",
     "desc": "Profile card dashboard built using Vite and Node.js. Displays image and contact with interactive UI components.",
-    "image": "Profile",
+    "image": "portfolio",
     "category": "react",
     "links": {
       "code": "https://github.com/ngocluong0101/my-portfolio-final"
@@ -30,7 +30,7 @@
     {
     "name": "Heart Disease Prediction",
     "desc": "Predicts heart disease using Logistic Regression and KNN in Python (Jupyter Notebook).",
-    "image": "MachineLearning",
+    "image": "machinelearning",
     "category": "machine learning",
     "links": {
       "code": "https://github.com/ngocluong0101/heart-disease-ML"
